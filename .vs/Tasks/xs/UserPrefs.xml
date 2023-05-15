@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{C680DAFA-123F-4332-A2D6-FB0D837146A6}|https" VersionControlDisabled="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="First/Data/MyDbContext.cs">
+    <Files>
+      <File FileName="First/Data/MyDbContext.cs" Line="21" Column="1" />
+      <File FileName="First/appsettings.json" Line="15" Column="1" />
+      <File FileName="First/Program.cs" Line="4" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tasks" expanded="True">
+            <Node name="First" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.First PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
